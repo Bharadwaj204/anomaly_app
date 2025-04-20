@@ -1,0 +1,29 @@
+1. Genuine Review:
+   "This app saved me from bad weather multiple times during my trip—it even alerted me when storms were coming!"
+
+2. Fake Review:
+   "This is a waste app. After few days it started to show nothing and it says it takes time to sync with the calendar but still after 24 hrs they don’t sync. Please don’t install this app and then expect to be productive."
+
+3. Genuine Review:
+   "I simply love TickTick but am growing weary of the widgets not updating. If I open the app, they update after a minute or so. However, if I don't need to use the app (therefore not opening it), the widgets stop updating after some amount of time."
+
+4. Fake Review:
+   "The app’s document editor is functional, but it doesn’t support multi-language text translation."
+
+5. Genuine Review:
+   "On a recent vacation, I managed all my events with this app—it kept me organized!"
+
+6. Fake Review:
+   "The app’s file backup system is reliable, but it doesn’t support real-time syncing."
+
+7. Genuine Review:
+   "I track all my work hours with this app—it’s the best for freelancers!"
+
+8. Fake Review:
+   "Pop up stating 'the app has been blocked by the system. Please authorize the app in your device settings' is flashing on my device. May I know what is this about?"
+
+9. Genuine Review:
+   "The app’s multi-device sync works, but it occasionally loses data."
+
+10. Fake Review:
+   "For everything, it is giving me as Genuine."
